@@ -10,7 +10,7 @@ on:
 jobs:
   sonarqube:
     name: SonarQube
-# GitHub-hosted runners have always 2 vCPUs, 7 GB RAM
+# GitHub-hosted runners have always 2 vCPUs, 7 GB RAM 
     runs-on: ubuntu-latest
 #    runs-on: ubuntu-22.04
 #    runs-on: ubuntu-20.04
